@@ -1,5 +1,5 @@
 const fs = require('fs');
 
-fs.writeFileSync('hello.txt', 'Hello from NodeJS file!')
+fs.writeFileSync('hello.txt', 'Hello again from NodeJS file!')
 
 
